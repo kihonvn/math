@@ -34,12 +34,7 @@ An empty or null set is a set having no element. In convention, an empty is a [s
 
 ### Set union
 
-<svg width="132" height="82" xmlns="http://www.w3.org/2000/svg" stroke="#f00" fill="#0f0">
-  <path d="M66,72.225 A40,40 0 1 1 66,9.775"/>
-  <path d="M66,72.225 A40,40 0 1 0 66,9.775"/>
-  <path d="M66,72.225 A40,40 0 0 0 66,9.775"/>
-  <path d="M66,72.225 A40,40 0 0 1 66,9.775"/>
-</svg>
+![Set union](img/set-union.svg)
 
 The union of &#x1D434; and &#x1D435; sets is a set containing all elements of &#x1D434; and &#x1D435;.
 
@@ -51,12 +46,7 @@ The union of &#x1D434; and &#x1D435; sets is a set containing all elements of &#
 
 ### Set intersection
 
-<svg width="132" height="82" xmlns="http://www.w3.org/2000/svg" stroke="#f00" fill="#0f0">
-  <path d="M66,72.225 A40,40 0 1 1 66,9.775" fill="none"/>
-  <path d="M66,72.225 A40,40 0 1 0 66,9.775" fill="none"/>
-  <path d="M66,72.225 A40,40 0 0 0 66,9.775"/>
-  <path d="M66,72.225 A40,40 0 0 1 66,9.775"/>
-</svg>
+![Set intersection](img/set-intersection.svg)
 
 The intersection of &#x1D434; and &#x1D435; sets is a set containing elements that are in both &#x1D434; and &#x1D435;.
 
