@@ -1,4 +1,4 @@
-# Discrete Mathematic
+# Discrete Math
 
 ## References
 
