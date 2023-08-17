@@ -42,7 +42,7 @@ The universe set is the set of all elements.
 
 <small>**Figure 1** - Venn Diagram for set union</small>
 
-The union of &#x1D434; and &#x1D435; sets is a set containing all elements of &#x1D434; and &#x1D435;.
+The union of &#x1D434; and &#x1D435; sets is the set containing all elements of &#x1D434; and &#x1D435;.
 
 &#x1D434; &#x222A; &#x1D435; = {&#x1D465; : &#x1D465; &#x2208; &#x1D434; &#x2228; &#x1D465; &#x2208; &#x1D435;}
 
@@ -56,7 +56,7 @@ The union of &#x1D434; and &#x1D435; sets is a set containing all elements of &#
 
 <small>**Figure 2** - Venn Diagram for set intersection</small>
 
-The intersection of &#x1D434; and &#x1D435; sets is a set containing elements that are in both &#x1D434; and &#x1D435;.
+The intersection of &#x1D434; and &#x1D435; sets is the set containing elements that are in both &#x1D434; and &#x1D435;.
 
 &#x1D434; &#x2229; &#x1D435; = {&#x1D465; : &#x1D465; &#x2208; &#x1D434; &#x2227; &#x1D465; &#x2208; &#x1D435;}
 
@@ -74,7 +74,7 @@ Two sets are disjoint if their intersection is [the empty set](#the-empty-null-s
 
 <small>**Figure 3** - Venn Diagram for the complement of the red set relative to the blue one</small>
 
-The complement of a set &#x1D434; relative to another set &#x1D435; is a set containing all elelements in &#x1D435; but not in &#x1D434;.
+The complement of a set &#x1D434; relative to another set &#x1D435; is the set containing all elelements in &#x1D435; but not in &#x1D434;.
 
 &#x1D435; - &#x1D434; = {&#x1D465; : &#x1D465; &#x2208; &#x1D435; &#x2227; &#x1D465; &#x2209; &#x1D434;}
 
@@ -91,11 +91,27 @@ The complement of a set (relative to [the universe](#the-universe-or-the-univers
 
 <small>**Figure 4** - Venn Diagram for the symmetric difference of red and blue sets</small>
 
-The symmetric difference of two sets &#x1D434; and &#x1D435; is a set containing all elements in &#x1D434; and in &#x1D435; but not both.
+The symmetric difference of two sets &#x1D434; and &#x1D435; is the set containing all elements in &#x1D434; and in &#x1D435; but not both.
 
 &#x1D434; &#x2A01; &#x1D435; = (&#x1D434; &#x222A; &#x1D435;) - (&#x1D434; &#x2229; &#x1D435;)
 
 - &#x1D434; = {&#x1D7F7;, &#x1D7F8;}, &#x1D435; = {&#x1D7F8;, &#x1D7F9;} &#x21D2; &#x1D434; &#x2A01; &#x1D435; = {&#x1D7F7;, &#x1D7F9;}
+
+### The Cartesian product of two or more sets
+
+The Cartesian product of two sets &#x1D434; and &#x1D435; is the set containing all possible ordered pairs whose first component is in &#x1D434; and the other in &#x1D435;.
+
+&#x1D434; x &#x1D435; = {(&#x1D44E;, &#x1D44F;) : &#x1D44E; &#x2208; &#x1D434; &#x2227; &#x1D44F; &#x2208; &#x1D435;}
+
+- &#x1D434; = {&#x1D7F7;, &#x1D7F8;}, &#x1D435; = {&#x1D7F9;, &#x1D7FA;} &#x21D2; &#x1D434; x &#x1D435; = {(&#x1D7F7;, &#x1D7F9;), (&#x1D7F7;, &#x1D7FA;), (&#x1D7F8;, &#x1D7F9;), (&#x1D7F8;, &#x1D7FA;)}
+- &#x1D434; = {&#x1D7F7;, &#x1D7F8;}, &#x1D435; = {&#x1D7F9;, &#x1D7FA;} &#x21D2; &#x1D435; x &#x1D434; = {(&#x1D7F9;, &#x1D7F7;), (&#x1D7F9;, &#x1D7F8;), (&#x1D7FA;, &#x1D7F7;), (&#x1D7FA;, &#x1D7F8;)}
+- &#x1D434; = {&#x1D7F7;, &#x1D7F8;} &#x21D2; &#x1D434; x &#x1D434; = {(&#x1D7F7;, &#x1D7F7;), (&#x1D7F7;, &#x1D7F8;), (&#x1D7F8;, &#x1D7F7;), (&#x1D7F8;, &#x1D7F8;)}
+
+### The power set of a set
+
+The power set of a set is the set containing all of its subsets.
+
+- &#x1D434; = {&#x1D7F7;, &#x1D7F8;} &#x21D2; &#x1D4AB;(&#x1D434;) = {&#x2205;, {&#x1D7F7;}, {&#x1D7F8;}, {&#x1D7F7;, &#x1D7F8;}}
 
 ## Notations
 
@@ -115,7 +131,7 @@ The symmetric difference of two sets &#x1D434; and &#x1D435; is a set containing
 |&#x211A;|Rational number set
 |&#x211D;|Real number set
 |&#x2102;|Complex number set|{&#x1D44E; + &#x1D44F;&#x1D456; : &#x1D44E;,&#x1D44F; &#x2208; &#x211D;, &#x1D456;<sup>&#x1D7F8;</sup> = -&#x1D7F7;}
-|&#x2205;|[The empty (null) set](#the-empty-null-set)|{}
+|&#x2205;|[The empty (null) set](#the-empty-null-set)
 |&#x1D448;|[The universe (universal set)](#the-universe-or-the-universal-set)
 |&#x2282;|is a [subset](#subsets) of|&#x1D434; &#x2282; &#x1D435;
 |&#x2284;|is not a [subset](#subsets) of|&#x1D434; &#x2284; &#x1D435;
@@ -127,6 +143,9 @@ The symmetric difference of two sets &#x1D434; and &#x1D435; is a set containing
 |set<sup>&#x1D436;</sup>|The [complement](#the-complement-of-a-set-relative-to-another-one) of the set (relative to [the universe](#the-universe-or-the-universal-set))|&#x1D434;<sup>&#x1D436;</sup> = &#x1D448; - &#x1D434;
 |&#x1D448;<sup>&#x1D436;</sup>|The [complement](#the-complement-of-a-set-relative-to-another-one) of [the universe](#the-universe-or-the-universal-set)|&#x1D448;<sup>&#x1D436;</sup> = &#x1D448; - &#x1D448; = &#x2205;
 |&#x2205;<sup>&#x1D436;</sup>|The [complement](#the-complement-of-a-set-relative-to-another-one) of [the empty set](#the-empty-null-set)|&#x2205;<sup>&#x1D436;</sup> = &#x1D448; - &#x2205; = &#x1D448;
+|&#x2A01;|The [symmetric difference](#the-symmetric-difference-of-two-sets) of two sets|&#x1D434; &#x2A01; &#x1D435; = (&#x1D434; &#x222A; &#x1D435;) - (&#x1D434; &#x2229; &#x1D435;)
+|x|The [Cartesian product](#the-cartesian-product-of-two-or-more-sets) of two sets|&#x1D434; x &#x1D435;
+|&#x1D4AB;(set)|The [power set](#the-power-set-of-a-set) of a set|&#x1D4AB;(&#x1D434;)
 
 ## Funnies
 
@@ -174,6 +193,13 @@ The symmetric difference of two sets &#x1D434; and &#x1D435; is a set containing
 - &#x1D434; &#x222A; &#x1D434;<sup>&#x1D436;</sup> = &#x1D448;
 - &#x1D448;<sup>&#x1D436;</sup> = &#x2205;
 - &#x2205;<sup>&#x1D436;</sup> = &#x1D448;
-- &#x1D434; - &#x1D435; = &#x1D435; - &#x1D434; if and only if &#x1D434; = &#x1D435;
+- &#x1D434; - &#x1D435; = &#x1D435; - &#x1D434; &#x21D4; &#x1D434; = &#x1D435;
 - (&#x1D434; &#x222A; &#x1D435;)<sup>&#x1D436;</sup> = &#x1D434;<sup>&#x1D436;</sup> &#x2229; &#x1D435;<sup>&#x1D436;</sup>
 - &#x1D434; &#x2A01; &#x1D435; = &#x1D435; &#x2A01; &#x1D434;
+- &#x1D448; x &#x2205; = &#x2205;
+- &#x1D434; x &#x1D435; = &#x1D435; x &#x1D434; &#x21D4; &#x1D434; = &#x1D435;
+- |&#x1D434; x &#x1D435;| = |&#x1D434;| x |&#x1D435;|
+- |&#x1D434; x &#x1D434;| = |&#x1D434;|<sup>&#x1D7F8;</sup>
+- |(&#x1D434; x &#x1D435;) &#x2229; (&#x1D435; x &#x1D434;)| = |&#x1D434; &#x2229; &#x1D435;|<sup>&#x1D7F8;</sup>
+- &#x1D4AB;(&#x2205;) = {&#x2205;}
+- &#x1D4AB;({&#x1D7F7;}) = {&#x2205;, {&#x1D7F7;}}
