@@ -21,6 +21,8 @@ where
 
 &#x2211;<sub>&#x1D456; in &#x1D7F7;, &#x1D45B;</sub> &#x1D456;<sup>&#x1D7F9;</sup> = &#x1D45B;<sup>&#x1D7F8;</sup>(&#x1D45B;+&#x1D7F7;)<sup>&#x1D7F8;</sup>/&#x1D7FA;
 
+&#x2211;<sub>&#x1D456; in &#x1D7F6;, &#x1D45B;</sub> (&#x1D45B; &#x1D456;) &#x1D465;<sup>(&#x1D45B;-&#x1D456;)</sup>&#x1D466;<sup>&#x1D456;</sup> = (&#x1D465;+&#x1D466;)<sup>&#x1D456;</sup>
+
 ## Generalizations
 
 ![](img/union-generalization.svg)

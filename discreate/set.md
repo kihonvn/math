@@ -40,7 +40,7 @@ The universe set is the set of all elements.
 
 ![Set union](img/set-union.svg)
 
-<small>**Figure 1** - Venn Diagram for set union</small>
+<small>**Figure 1** - Venn diagram for set union</small>
 
 The union of &#x1D434; and &#x1D435; sets is the set containing all elements of &#x1D434; and &#x1D435;.
 
@@ -54,7 +54,7 @@ The union of &#x1D434; and &#x1D435; sets is the set containing all elements of 
 
 ![Set intersection](img/set-intersection.svg)
 
-<small>**Figure 2** - Venn Diagram for set intersection</small>
+<small>**Figure 2** - Venn diagram for set intersection</small>
 
 The intersection of &#x1D434; and &#x1D435; sets is the set containing elements that are in both &#x1D434; and &#x1D435;.
 
@@ -72,7 +72,7 @@ Two sets are disjoint if their intersection is [the empty set](#the-empty-null-s
 
 ![Set complement](img/set-complement.svg)
 
-<small>**Figure 3** - Venn Diagram for the complement of the red set relative to the blue one</small>
+<small>**Figure 3** - Venn diagram for the complement of the red set relative to the blue one</small>
 
 The complement of a set &#x1D434; relative to another set &#x1D435; is the set containing all elelements in &#x1D435; but not in &#x1D434;.
 
@@ -112,6 +112,52 @@ The Cartesian product of two sets &#x1D434; and &#x1D435; is the set containing 
 The power set of a set is the set containing all of its subsets.
 
 - &#x1D434; = {&#x1D7F7;, &#x1D7F8;} &#x21D2; &#x1D4AB;(&#x1D434;) = {&#x2205;, {&#x1D7F7;}, {&#x1D7F8;}, {&#x1D7F7;, &#x1D7F8;}}
+
+### Set membership tables
+
+Let &#x1D434; &#x2282; &#x1D448; and &#x1D44E; &#x2208; &#x1D448;, the table represents whether &#x1D44E; is in &#x1D434; is a set membership table. If &#x1D44E; &#x2208; &#x1D434;, we note &#x1D7F7;; otherwise, &#x1D7F6; as the following:
+
+|&#x1D44E; &#x2208; &#x1D434;
+|:-:
+|&#x1D7F6;
+|&#x1D7F7;
+
+Although we can use set membership tables and Venn diagrams to prove set theories, it's definitely not suitable when the number of sets is large.
+
+Extend a set membership table to prove the distributive law of intersection over union
+|&#x1D434;|&#x1D435;|&#x1D436;|&#x1D434; &#x2229; &#x1D435;|&#x1D434; &#x2229; &#x1D436;| &#x1D435; &#x222A; &#x1D436;|&#x1D434; &#x2229; (&#x1D435; &#x222A; &#x1D436;)|(&#x1D434; &#x2229; &#x1D435;) &#x222A; (&#x1D434; &#x2229; &#x1D436;)
+|:-:|:-:|:-:|:-:|:-:|:-:|:-:|:-:
+|&#x1D7F6;|&#x1D7F6;|&#x1D7F6;|&#x1D7F6;|&#x1D7F6;|&#x1D7F6;|&#x1D7F6;|&#x1D7F6;
+|&#x1D7F6;|&#x1D7F7;|&#x1D7F6;|&#x1D7F6;|&#x1D7F6;|&#x1D7F7;|&#x1D7F6;|&#x1D7F6;
+|&#x1D7F6;|&#x1D7F6;|&#x1D7F7;|&#x1D7F6;|&#x1D7F6;|&#x1D7F7;|&#x1D7F6;|&#x1D7F6;
+|&#x1D7F6;|&#x1D7F7;|&#x1D7F7;|&#x1D7F6;|&#x1D7F6;|&#x1D7F7;|&#x1D7F6;|&#x1D7F6;
+|&#x1D7F7;|&#x1D7F6;|&#x1D7F6;|&#x1D7F6;|&#x1D7F6;|&#x1D7F6;|&#x1D7F6;|&#x1D7F6;
+|&#x1D7F7;|&#x1D7F7;|&#x1D7F6;|&#x1D7F7;|&#x1D7F6;|&#x1D7F7;|&#x1D7F7;|&#x1D7F7;
+|&#x1D7F7;|&#x1D7F6;|&#x1D7F7;|&#x1D7F6;|&#x1D7F7;|&#x1D7F7;|&#x1D7F7;|&#x1D7F7;
+|&#x1D7F7;|&#x1D7F7;|&#x1D7F7;|&#x1D7F7;|&#x1D7F7;|&#x1D7F7;|&#x1D7F7;|&#x1D7F7;
+
+![Set symmetric difference](img/set-distributive-law-01.svg)
+![Set symmetric difference](img/set-distributive-law-02.svg)
+![Set symmetric difference](img/set-distributive-law-03.svg)
+
+Use Ven diagrams to prove set distributive law of intersection over union
+
+<small>**Figure 5** - Venn diagram for &#x1D434; &#x2229; (&#x1D435; &#x222A; &#x1D436;)</small>
+
+![Set symmetric difference](img/set-distributive-law-04.svg)
+![Set symmetric difference](img/set-distributive-law-05.svg)
+![Set symmetric difference](img/set-distributive-law-03.svg)
+
+<small>**Figure 6** - Venn diagram for (&#x1D434; &#x2229; &#x1D435;) &#x222A; (&#x1D434; &#x2229; &#x1D436;)</small>
+
+
+## Theorems
+
+### The distributive laws
+
+#### Intersection over union - &#x1D434; &#x2229; (&#x1D435; &#x222A; &#x1D436;) = (&#x1D434; &#x2229; &#x1D435;) &#x222A; (&#x1D434; &#x2229; &#x1D436;)
+
+#### Union over intersection - &#x1D434; &#x222A; (&#x1D435; &#x2229; &#x1D436;) = (&#x1D434; &#x222A; &#x1D435;) &#x2229; (&#x1D434; &#x222A; &#x1D436;)
 
 ## Notations
 
@@ -180,26 +226,30 @@ The power set of a set is the set containing all of its subsets.
 
 ### Somehow similar
 
-- (&#x1D434; &#x2282; &#x1D435;) &#x2227; (&#x1D435; &#x2282; &#x1D436;) &#x21D2; &#x1D434; &#x2282; &#x1D436;
-- &#x1D434; &#x222A; &#x1D435; = &#x1D435; &#x222A; &#x1D434;
-- &#x1D434; &#x222A; (&#x1D435; &#x222A; &#x1D436;) = (&#x1D434; &#x222A; &#x1D435;) &#x222A; &#x1D436;
+- Transitivity
+  - (&#x1D434; &#x2282; &#x1D435;) &#x2227; (&#x1D435; &#x2282; &#x1D436;) &#x21D2; &#x1D434; &#x2282; &#x1D436;
+- Commutativity
+  - &#x1D434; &#x222A; &#x1D435; = &#x1D435; &#x222A; &#x1D434;
+  - &#x1D434; &#x222A; (&#x1D435; &#x222A; &#x1D436;) = (&#x1D434; &#x222A; &#x1D435;) &#x222A; &#x1D436;
+  - &#x1D434; &#x2229; &#x1D435; = &#x1D435; &#x2229; &#x1D434;
+  - &#x1D434; &#x2229; (&#x1D435; &#x2229; &#x1D436;) = (&#x1D434; &#x2229; &#x1D435;) &#x2229; &#x1D436;
+- (&#x1D434; &#x2282; &#x1D435;) &#x2227; (&#x1D434; &#x2282; &#x1D436;) &#x21D4; &#x1D434; &#x2282; (&#x1D435; &#x2229; &#x1D436;)
 - &#x1D434; &#x2282; (&#x1D434; &#x222A; &#x1D435;)
-- &#x1D434; &#x2229; &#x1D435; = &#x1D435; &#x2229; &#x1D434;
-- &#x1D434; &#x2229; (&#x1D435; &#x2229; &#x1D436;) = (&#x1D434; &#x2229; &#x1D435;) &#x2229; &#x1D436;
 - (&#x1D434; &#x2229; &#x1D435;) &#x2282; &#x1D434;
-- &#x1D434; &#x222A; (&#x1D435; &#x2229; &#x1D436;) = (&#x1D434; &#x222A; &#x1D435;) &#x2229; (&#x1D434; &#x222A; &#x1D436;)
-- &#x1D434; &#x2229; (&#x1D435; &#x222A; &#x1D436;) = (&#x1D434; &#x2229; &#x1D435;) &#x222A; (&#x1D434; &#x2229; &#x1D436;)
 - (&#x1D434; &#x222A; &#x1D435; = &#x1D448;) &#x2227; (&#x1D434; &#x2229; &#x1D435;) = &#x2205; &#x21D2; &#x1D448; - &#x1D434; = &#x1D435;
 - &#x1D434; &#x222A; &#x1D434;<sup>&#x1D436;</sup> = &#x1D448;
 - &#x1D448;<sup>&#x1D436;</sup> = &#x2205;
 - &#x2205;<sup>&#x1D436;</sup> = &#x1D448;
-- &#x1D434; - &#x1D435; = &#x1D435; - &#x1D434; &#x21D4; &#x1D434; = &#x1D435;
 - (&#x1D434; &#x222A; &#x1D435;)<sup>&#x1D436;</sup> = &#x1D434;<sup>&#x1D436;</sup> &#x2229; &#x1D435;<sup>&#x1D436;</sup>
+- &#x1D434; - &#x1D435; = &#x1D434; &#x2229; &#x1D435;<sup>&#x1D436;</sup>
+- &#x1D434; &#x2282; &#x1D435; &#x21D4; &#x1D435;<sup>&#x1D436;</sup> &#x2282; &#x1D434;<sup>&#x1D436;</sup>
+- &#x1D434; - &#x1D435; = &#x1D435; - &#x1D434; &#x21D4; &#x1D434; = &#x1D435;
 - &#x1D434; &#x2A01; &#x1D435; = &#x1D435; &#x2A01; &#x1D434;
 - &#x1D448; x &#x2205; = &#x2205;
 - &#x1D434; x &#x1D435; = &#x1D435; x &#x1D434; &#x21D4; &#x1D434; = &#x1D435;
 - |&#x1D434; x &#x1D435;| = |&#x1D434;| x |&#x1D435;|
 - |&#x1D434; x &#x1D434;| = |&#x1D434;|<sup>&#x1D7F8;</sup>
 - |(&#x1D434; x &#x1D435;) &#x2229; (&#x1D435; x &#x1D434;)| = |&#x1D434; &#x2229; &#x1D435;|<sup>&#x1D7F8;</sup>
+- &#x1D434; &#x2282; &#x1D435; &#x21D4; &#x1D434; x &#x1D436; &#x2282; &#x1D435; x &#x1D436;
 - &#x1D4AB;(&#x2205;) = {&#x2205;}
 - &#x1D4AB;({&#x1D7F7;}) = {&#x2205;, {&#x1D7F7;}}
