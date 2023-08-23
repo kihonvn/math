@@ -155,9 +155,17 @@ Use Ven diagrams to prove set distributive law of intersection over union
 
 ### The distributive laws
 
-#### Intersection over union - &#x1D434; &#x2229; (&#x1D435; &#x222A; &#x1D436;) = (&#x1D434; &#x2229; &#x1D435;) &#x222A; (&#x1D434; &#x2229; &#x1D436;)
+#### Intersection over union
 
-#### Union over intersection - &#x1D434; &#x222A; (&#x1D435; &#x2229; &#x1D436;) = (&#x1D434; &#x222A; &#x1D435;) &#x2229; (&#x1D434; &#x222A; &#x1D436;)
+&#x1D434; &#x2229; (&#x1D435; &#x222A; &#x1D436;) = (&#x1D434; &#x2229; &#x1D435;) &#x222A; (&#x1D434; &#x2229; &#x1D436;)
+
+#### Union over intersection
+
+&#x1D434; &#x222A; (&#x1D435; &#x2229; &#x1D436;) = (&#x1D434; &#x222A; &#x1D435;) &#x2229; (&#x1D434; &#x222A; &#x1D436;)
+
+### Power set cardinality
+
+|&#x1D4AB;(&#x1D434;)| = &#x1D7F8;<sup>|&#x1D434;|</sup>
 
 ## Notations
 

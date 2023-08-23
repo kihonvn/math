@@ -1,4 +1,6 @@
 svg/
+*.bak
 *.htm
 circle.*
 .vscode/
+c/
