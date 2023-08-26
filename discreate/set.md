@@ -103,6 +103,12 @@ The Cartesian product of two sets &#x1D434; and &#x1D435; is the set containing 
 
 &#x1D434; x &#x1D435; = {(&#x1D44E;, &#x1D44F;) : &#x1D44E; &#x2208; &#x1D434; &#x2227; &#x1D44F; &#x2208; &#x1D435;}
 
+&#x1D434;<sup>&#x1D7F8;</sup> = &#x1D434; x &#x1D434; = {(&#x1D44E;, &#x1D44F;) : &#x1D44E; &#x2208; &#x1D434; &#x2227; &#x1D44F; &#x2208;&#x1D434;}
+
+|&#x1D434; x &#x1D435;| = |&#x1D434;| x |&#x1D435;|
+
+|&#x1D434;<sup>&#x1D7F8;</sup>| = |&#x1D434;|<sup>&#x1D7F8;</sup>
+
 - &#x1D434; = {&#x1D7F7;, &#x1D7F8;}, &#x1D435; = {&#x1D7F9;, &#x1D7FA;} &#x21D2; &#x1D434; x &#x1D435; = {(&#x1D7F7;, &#x1D7F9;), (&#x1D7F7;, &#x1D7FA;), (&#x1D7F8;, &#x1D7F9;), (&#x1D7F8;, &#x1D7FA;)}
 - &#x1D434; = {&#x1D7F7;, &#x1D7F8;}, &#x1D435; = {&#x1D7F9;, &#x1D7FA;} &#x21D2; &#x1D435; x &#x1D434; = {(&#x1D7F9;, &#x1D7F7;), (&#x1D7F9;, &#x1D7F8;), (&#x1D7FA;, &#x1D7F7;), (&#x1D7FA;, &#x1D7F8;)}
 - &#x1D434; = {&#x1D7F7;, &#x1D7F8;} &#x21D2; &#x1D434; x &#x1D434; = {(&#x1D7F7;, &#x1D7F7;), (&#x1D7F7;, &#x1D7F8;), (&#x1D7F8;, &#x1D7F7;), (&#x1D7F8;, &#x1D7F8;)}
@@ -255,8 +261,6 @@ Use Ven diagrams to prove set distributive law of intersection over union
 - &#x1D434; &#x2A01; &#x1D435; = &#x1D435; &#x2A01; &#x1D434;
 - &#x1D448; x &#x2205; = &#x2205;
 - &#x1D434; x &#x1D435; = &#x1D435; x &#x1D434; &#x21D4; &#x1D434; = &#x1D435;
-- |&#x1D434; x &#x1D435;| = |&#x1D434;| x |&#x1D435;|
-- |&#x1D434; x &#x1D434;| = |&#x1D434;|<sup>&#x1D7F8;</sup>
 - |(&#x1D434; x &#x1D435;) &#x2229; (&#x1D435; x &#x1D434;)| = |&#x1D434; &#x2229; &#x1D435;|<sup>&#x1D7F8;</sup>
 - &#x1D434; &#x2282; &#x1D435; &#x21D4; &#x1D434; x &#x1D436; &#x2282; &#x1D435; x &#x1D436;
 - &#x1D4AB;(&#x2205;) = {&#x2205;}
