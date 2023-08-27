@@ -38,7 +38,7 @@ The universe set is the set of all elements.
 
 ### Set union
 
-![Set union](img/set-union.svg)
+![Set union](../img/set-union.svg)
 
 <small>**Figure 1** - Venn diagram for set union</small>
 
@@ -52,7 +52,7 @@ The union of &#x1D434; and &#x1D435; sets is the set containing all elements of 
 
 ### Set intersection
 
-![Set intersection](img/set-intersection.svg)
+![Set intersection](../img/set-intersection.svg)
 
 <small>**Figure 2** - Venn diagram for set intersection</small>
 
@@ -70,7 +70,7 @@ Two sets are disjoint if their intersection is [the empty set](#the-empty-null-s
 
 ### The complement of a set relative to another one
 
-![Set complement](img/set-complement.svg)
+![Set complement](../img/set-complement.svg)
 
 <small>**Figure 3** - Venn diagram for the complement of the red set relative to the blue one</small>
 
@@ -87,7 +87,7 @@ The complement of a set (relative to [the universe](#the-universe-or-the-univers
 
 ### The symmetric difference of two sets
 
-![Set symmetric difference](img/set-symmetric-difference.svg)
+![Set symmetric difference](../img/set-symmetric-difference.svg)
 
 <small>**Figure 4** - Venn Diagram for the symmetric difference of red and blue sets</small>
 
@@ -142,20 +142,19 @@ Extend a set membership table to prove the distributive law of intersection over
 |&#x1D7F7;|&#x1D7F6;|&#x1D7F7;|&#x1D7F6;|&#x1D7F7;|&#x1D7F7;|&#x1D7F7;|&#x1D7F7;
 |&#x1D7F7;|&#x1D7F7;|&#x1D7F7;|&#x1D7F7;|&#x1D7F7;|&#x1D7F7;|&#x1D7F7;|&#x1D7F7;
 
-![Set symmetric difference](img/set-distributive-law-01.svg)
-![Set symmetric difference](img/set-distributive-law-02.svg)
-![Set symmetric difference](img/set-distributive-law-03.svg)
+![Set symmetric difference](../img/set-distributive-law-01.svg)
+![Set symmetric difference](../img/set-distributive-law-02.svg)
+![Set symmetric difference](../img/set-distributive-law-03.svg)
 
 Use Ven diagrams to prove set distributive law of intersection over union
 
 <small>**Figure 5** - Venn diagram for &#x1D434; &#x2229; (&#x1D435; &#x222A; &#x1D436;)</small>
 
-![Set symmetric difference](img/set-distributive-law-04.svg)
-![Set symmetric difference](img/set-distributive-law-05.svg)
-![Set symmetric difference](img/set-distributive-law-03.svg)
+![Set symmetric difference](../img/set-distributive-law-04.svg)
+![Set symmetric difference](../img/set-distributive-law-05.svg)
+![Set symmetric difference](../img/set-distributive-law-03.svg)
 
 <small>**Figure 6** - Venn diagram for (&#x1D434; &#x2229; &#x1D435;) &#x222A; (&#x1D434; &#x2229; &#x1D436;)</small>
-
 
 ## Theorems
 
