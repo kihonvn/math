@@ -1,5 +1,7 @@
 # Biconditional Statement
 
+## Definition
+
 The bicondional statement, "&#x1D45D; if and only if &#x1D45E;", denoted &#x1D45D; &#x2194; &#x1D45E;, is defined by the following truth table:
 
 |&#x1D45D;|&#x1D45E;|&#x1D45D; &#x2194; &#x1D45E;
