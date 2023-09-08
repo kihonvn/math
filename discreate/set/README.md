@@ -1,5 +1,7 @@
 # Sets
 
+Georg Cantor, a German mathematician, is considered the creator of set theory in the late 19th century.
+
 ## Definitions
 
 ### The pseudo definition of set
