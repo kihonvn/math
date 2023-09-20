@@ -21,3 +21,11 @@ If &#x1D453;(&#x1D465;) = y and &#x1D454; = &#x1D453;<sup>-&#x1D7F7;</sup>, then
 ### [Bijections](../properties/bijective.md#definition) have inverses
 
 Let &#x1D453; : &#x1D44B; &#x2192; &#x1D44C; and &#x1D454; : &#x1D44C; &#x2192; &#x1D44B;. Then &#x1D454; = &#x1D453;<sup>-&#x1D7F7;</sup> exists if and only if &#x1D453; is a [bijection](../properties/bijective.md#definition).
+
+## Practices
+
+1. Let &#x1D453; : [-&#x1D7F8; &#x221E;) &#x2192; [&#x1D7F6;, &#x221E;) defined by &#x1D453;(&#x1D465;) = &#x1D465;<sup>&#x1D7F8;</sup> + &#x1D7FA;&#x1D465; + &#x1D7FA;. Does &#x1D453;<sup>-&#x1D7F7;</sup> exist?
+
+## Answers
+
+1. Yes

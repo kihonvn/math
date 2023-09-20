@@ -12,6 +12,7 @@ The range of a [&#x1D453; : &#x1D44B; &#x2192; &#x1D44C;](README.md#definition) 
 1. Let &#x1D434; = {&#x1D7F7;, &#x1D7F8;, &#x1D7F9;}, &#x1D435; = {&#x1D7FA;, &#x1D7FB;, &#x1D7FC;}, and &#x1D453; : &#x1D434; &#x2192; &#x1D435; = {(&#x1D7F7;, &#x1D7FA;), (&#x1D7F8;, &#x1D7FB;), (&#x1D7F9;, &#x1D7FC;)}. Identify &#x1D453;(&#x1D434;).
 1. Let &#x1D434; = {&#x1D7F7;, &#x1D7F8;, &#x1D7F9;}, &#x1D435; = {&#x1D7FA;, &#x1D7FB;, &#x1D7FC;}, and &#x1D453; : &#x1D434; &#x2192; &#x1D435; = {(&#x1D7F7;, &#x1D7FA;), (&#x1D7F8;, &#x1D7FB;), (&#x1D7F9;, &#x1D7FA;)}. Identify &#x1D453;(&#x1D434;).
 1. Let &#x1D434; = {&#x1D7F7;, &#x1D7F8;, &#x1D7F9;} and &#x1D453; : &#x1D434; &#x2192; &#x1D434; = {(&#x1D7F7;, &#x1D7F7;), (&#x1D7F8;, &#x1D7F7;), (&#x1D7F9;, &#x1D7F7;)}. Identify &#x1D453;(&#x1D434;).
+1. Let &#x1D453; : [&#x1D7F6;, &#x221E;) &#x2192; &#x211D; defined by &#x1D453;(&#x1D465;) = &#x1D7F8;&#x1D465;<sup>&#x1D7F8;</sup> - &#x1D7FB;. Then &#x1D453; range?
 
 ## Answers
 
@@ -19,3 +20,4 @@ The range of a [&#x1D453; : &#x1D44B; &#x2192; &#x1D44C;](README.md#definition) 
 1. {&#x1D7FA;, &#x1D7FB;, &#x1D7FC;} = &#x1D435;
 1. {&#x1D7FA;, &#x1D7FB;}
 1. {&#x1D7F7;}
+1. [-&#x1D7FB;, &#x221E;)
