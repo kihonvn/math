@@ -16,6 +16,13 @@
 - [Common forms](summations-generalizations.md#common-forms)
 - [Generalizations](summations-generalizations.md#generalizations)
 
+## Objects
+
+- Subsets
+- Bit strings
+- Lattice paths
+- Binomial coefficients
+
 ## References
 
 - https://discretemath.org/ads/index-ads.html

@@ -6,7 +6,7 @@ Order is not important in combinations.
 
 ### Binomial coefficient
 
-Let &#x1D45B; and &#x1D458; be non-negative integers. The binomial coefficient of &#x1D45B; and &#x1D458;, &#x1D436;(&#x1D45B;, &#x1D458;), is the number of combinations of &#x1D45B; objects taken &#x1D458; at a time, and is read "&#x1D45B; choose &#x1D458;".
+Let &#x1D45B; and &#x1D458; be non-negative integers. The binomial coefficient of &#x1D45B; and &#x1D458;, &#x1D436;(&#x1D45B;, &#x1D458;), is ***the number of combinations*** of &#x1D45B; objects taken &#x1D458; at a time, and is read "***&#x1D45B; choose &#x1D458;***".
 
 ## Theorems
 
@@ -17,6 +17,8 @@ Let &#x1D45B; and &#x1D458; be non-negative integers and &#x1D458; <= &#x1D45B;.
 &#x1D436;(&#x1D45B;, &#x1D458;) = &#x1D45B;! / ((&#x1D45B; - &#x1D458;)! * &#x1D458;!)
 
 ### Binomial theorem
+
+*Binomial theorem gives us a formula for expanding (&#x1D465;+&#x1D466;)<sup>&#x1D45B;</sup>, &#x1D45B; &#x2208; &#x2115; and &#x1D465;, &#x1D466; &#x2208; &#x211D;.*
 
 Let &#x1D45B; be non-negative integer.
 

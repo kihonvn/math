@@ -33,4 +33,3 @@ A sequence (discrete function) is a function from &#x2115; into another set. The
    - &#x1D7F7;&#x1D7FB; (&#x1D453;(&#x1D7F7;) = &#x1D7F7;; &#x1D453;(&#x1D45B;) = &#x1D45B; + &#x1D453;(&#x1D45B; - &#x1D7F7;))
    - &#x1D7F7;&#x1D7F7; (prime sequence)
    - &#x1D7F8;&#x1D7FA;
-
