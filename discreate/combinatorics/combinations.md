@@ -54,3 +54,14 @@ Let &#x1D45B; be non-negative integer.
 ## Practices
 
 1. If we toss a fair coin five times, how many cases do we get three heads?
+1. A pizza parlor offers 𝟩 toppings. How many 𝟤-topping pizzas could they put on their menu? Assume double toppings are not allowed.
+1. Alex has 𝟩 friends and wants to go on a trip, but his car only has 𝟧 seats (including the driver's seat). If Alex is always one of the passengers, how many ways can he choose his friends to join him on the trip?
+1. The coefficient of 𝑥<sup>𝟧</sup> in the expansion of (𝟣-𝟤𝑥)<sup>𝟩</sup> is?
+
+
+## Answers
+
+1. 
+1. 𝐶(𝟩, 𝟤)
+1. 𝐶(𝟩, 𝟦)
+1. -𝟤<sup>𝟧</sup> * 𝐶(𝟩, 𝟧)
