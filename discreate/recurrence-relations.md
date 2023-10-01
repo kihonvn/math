@@ -1,4 +1,0 @@
-# Recurrence Relations
-
-## Definition
-
