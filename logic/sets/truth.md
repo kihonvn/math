@@ -2,7 +2,7 @@
 
 ## Definition
 
-If <code>p</code> is a proposition over <code>U</code>, the truth set of <code>p</code> is <code>T<sub>p</sub> = {a ∈ U : p(a) is true}</code>
+If p is a proposition over U, the truth set of p is T<sub>p</sub> = {a ∈ U : p(a) is true}
 
 ## See also
 

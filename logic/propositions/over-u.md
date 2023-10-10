@@ -2,4 +2,4 @@
 
 ## Definition
 
-Let 𝑈 ≠ ∅. A proposition over 𝑈 is a sentence that contains a variable that can take on any value in 𝑈 and that has a definite truth value as a result of any such substitution.
+Let U ≠ ∅. A proposition over U is a sentence that contains a variable that can take on any value in U and that has a definite truth value as a result of any such substitution.
