@@ -2,11 +2,11 @@
 
 ## Definition
 
-If &#x1D434; is any set, the power set of &#x1D434; is the set containing all subsets of &#x1D434;, denoted &#x1D4AB;(&#x1D434;).
+If A is any set, the power set of A is the set containing all subsets of A, denoted P(A).
 
 ## Examples
 
-- &#x1D434; = {&#x1D7F7;, &#x1D7F8;} &#x21D2; &#x1D4AB;(&#x1D434;) = {&#x2205;, {&#x1D7F7;}, {&#x1D7F8;}, {&#x1D7F7;, &#x1D7F8;}}
+- A = {1, 2} ⇒ P(A) = {∅, {1}, {2}, {1, 2}}
 
 ## Calculator syntax
 
