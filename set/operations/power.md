@@ -4,9 +4,15 @@
 
 If A is any set, the power set of A is the set containing all subsets of A, denoted P(A).
 
-## Examples
+### Examples
 
 - A = {1, 2} ⇒ P(A) = {∅, {1}, {2}, {1, 2}}
+
+## Theorems
+
+### Cardinality of the power set of a set
+
+|P(A)| = 2<sup>|A|</sup>
 
 ## Calculator syntax
 
