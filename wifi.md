@@ -2,7 +2,7 @@
 
 |SSID|Password|Description
 |-|-|-
-|Coffee 24/24<br>coffee 24/24 lau1<br>coffee 24/24 lau3<br>coffee 24/24 lau4|khachhanglaso1|D5, Q. Bình Thạnh, Tp. Hồ Chí Minh
+|Coffee 24/24<br>coffee 24/24 lau1<br>coffee 24/24 lau3<br>coffee 24/24 lau4|khachhanglaso1|96 D5, P. 25, Q. Bình Thạnh, Tp. Hồ Chí Minh
 |123 COFFEE T3_5GZ<br>123 COFFEE T3|123coffee|81-83 D5, P. 25, Q. Bình Thạnh, Tp. Hồ Chí Minh
 |MYLIFE COFFEE|1900066890|Kohi Coffee 33 Nguyễn Thị Minh Khai, P. Bến Nghé, Q. 1, Tp. Hồ Chí Minh
 |AN CAFE 5G|86868686|P. An Khánh, Q. 2, Tp. Hồ Chí Minh
