@@ -26,4 +26,4 @@
 |Indirect reasoning<br>(Aka Modus Tollens)|(p → q) ∧ ¬q ⇒ ¬p
 |Disjunctive Addition|p ⇒ (p ∨ q)
 |Conjunctive Simplification|(p ∧ q) ⇒ p<br>(p ∧ q) ⇒ q
-|Disjunctive Simplification|(p ∨ q) ∧ ¬p ⇒ q<br>(p ∨ q)
+|Disjunctive Simplification|(p ∨ q) ∧ ¬p ⇒ q<br>(p ∨ q) ∧ ¬q ⇒ p

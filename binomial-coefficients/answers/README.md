@@ -1,21 +1,6 @@
-# Binomial Coefficients
+# Answers
 
-## Definitions
-
-### Recursion version
-
-Assume 𝑛 ≥ 𝑘 ≥ 𝟶. We define (𝑛 𝑘) by
-- (𝑛 𝟶) = 𝟷
-- (𝑛 𝑛) = 𝟷 and
-- (𝑛 𝑘) = (𝑛-𝟷 𝑘) + (𝑛-𝟷 𝑘-𝟷) if 𝑛 > 𝑘 > 𝟶
-
-## Practices
-
-1. Expanding (𝟽 𝟸)
-
-## Answers
-
-1. (𝟽 𝟸) = (𝟼 𝟸) + (𝟼 𝟷)<br>
+## 1. (𝟽 𝟸) = (𝟼 𝟸) + (𝟼 𝟷)<br>
 = (𝟻 𝟸) + (𝟻 𝟷) + (𝟻 𝟷) + (𝟻 𝟶) = (𝟻 𝟸) + 𝟸(𝟻 𝟷) + 𝟷<br>
 = (𝟺, 𝟸) + (𝟺 𝟷) + 𝟸(𝟺 𝟷) + 𝟸(𝟺 𝟶) + 1 = (𝟺 𝟸) + 𝟹(𝟺 𝟷) + 𝟹<br>
 = (𝟹 𝟸) + (𝟹 𝟷) + 𝟹(𝟹 𝟷) + 𝟹(𝟹 𝟶) + 𝟹 = (𝟹 𝟸) + 𝟺(𝟹 𝟷) + 𝟼<br>

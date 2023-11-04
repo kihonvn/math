@@ -6,3 +6,7 @@ A group consists of a non-empty set G and a binary operation ∗ on G satisfying
 - associative
 - has an identity
 - every a ∈ G has an inverse
+
+## See also
+
+- [Monoids](../monoids/README.md#definition)

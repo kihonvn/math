@@ -1,6 +1,6 @@
 # Pascal's Triangle
 
-![](img/pascal-large.svg)
+![](pascal-large.svg)
 
 *An isosceles triangle* 
 

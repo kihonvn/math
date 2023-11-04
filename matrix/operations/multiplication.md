@@ -1,5 +1,7 @@
 # Matrix Multification
 
+## Rule
+
 Matrix A
 <table style="border-spacing: 10px 0;">
   <tr>

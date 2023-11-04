@@ -1,10 +1,10 @@
 # The Cartesian Product of Sets
 
-## Definition
+## Definitions
 
-&#x1D434; &#x00D7; &#x1D435; = {(&#x1D44E;, &#x1D44F;) : &#x1D44E; &#x2208; &#x1D434; and &#x1D44F; &#x2208; &#x1D435;}
+- A×B = {(a, b) : a ∈ A and b ∈ B}
 
-&#x1D434; &#x00D7; &#x1D435; &#x00D7; &#x1D436; = {(&#x1D44E;, &#x1D44F;, &#x1D450;) : &#x1D44E; &#x2208; &#x1D434;, &#x1D44F; &#x2208; &#x1D435;, and &#x1D450; &#x2208; &#x1D436;}
+A×B×C = {(a, b, c) : a ∈ A, b ∈ B, and c ∈ C}
 
 ## Examples
 
