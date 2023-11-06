@@ -8,5 +8,5 @@
 |123 COFFEE T3_5GZ<br>123 COFFEE T3|123coffee|81-83 D5, P. 25, Q. Bình Thạnh, Tp. Hồ Chí Minh
 |AN CAFE 5G|86868686|P. An Khánh, Q. 2, Tp. Hồ Chí Minh
 |DEN DA COFFEE|thu6freeupsize|543 Sư Vạn HạnhHạnh, Q. 10, Tp. Hồ Chí Minh
-|SLOWEE_1|bookaholic|53 Lộc Hưng, P. 6, Q. Tân Bình, Tp. Hồ Chí Minh
+|SLOWEE<br>SLOWEE_1<br>Slowee 2.4GHz<br>Slowee 5GHz|bookaholic|53 Lộc Hưng, P. 6, Q. Tân Bình, Tp. Hồ Chí Minh
 |Thinh Coffee|12345678|373/37 Lý Thường Kiệt, P. 9, Q. Tân Bình, Tp. Hồ Chí Minh

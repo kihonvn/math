@@ -3,8 +3,7 @@
 ## Definitions
 
 - A×B = {(a, b) : a ∈ A and b ∈ B}
-
-A×B×C = {(a, b, c) : a ∈ A, b ∈ B, and c ∈ C}
+- A×B×C = {(a, b, c) : a ∈ A, b ∈ B, and c ∈ C}
 
 ## Examples
 
